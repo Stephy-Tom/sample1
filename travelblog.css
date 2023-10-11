@@ -1,0 +1,17 @@
+img{
+    background-color: transparent;
+    height: 100px;
+    width: 75px;
+}
+.header-wrapper{
+    margin-top: 50px;
+    display:flex;
+}
+.navlist{
+    margin-right: 190px;
+    margin-bottom: 20px;
+}
+.cover{
+    height:450px;
+    width:100%
+}
